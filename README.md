@@ -29,3 +29,4 @@ As a long-time end user of data (for dashboarding, analytics and machine learnin
 | Separation of Duties     |
 | Data encryption          | In transit and at rest
 | Least Privilege          | 
+| Secure by Design         | 
