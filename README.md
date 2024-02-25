@@ -39,7 +39,7 @@ I've catalogued here a [list of common problems which hinder data analysis and m
 | Whoops - I deleted data by accident | | [Establish procedures for scheduled backup and disaster recovery](#scheduled-backup-and-recovery) 
 
 
-# Data Warehouse Best Practices
+# Data Warehouse and ETL Best Practices
 
 | Good Practice                                        | Description            |Reason
 |------------------------------------------------------|------------------------|--------------
